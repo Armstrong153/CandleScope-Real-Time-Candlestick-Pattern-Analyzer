@@ -1,0 +1,1 @@
+# CandleScope-Real-Time-Candlestick-Pattern-Analyzer
